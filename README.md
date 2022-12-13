@@ -1,5 +1,5 @@
-# travel--website
-Simple static web page
+# Travel
+
 ---
 ## Technology
 1. **Html**
@@ -9,5 +9,7 @@ Simple static web page
 5. **swiper-slider**
 6. **font swesome**
 ---
+
+Live Demo:
 
 ![Website Image](/images/website.png)
